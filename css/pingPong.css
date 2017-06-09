@@ -1,0 +1,40 @@
+.jumbotron {
+  background-image: url("../images/pingPong.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 40% 40%;
+  height: 400px;
+}
+
+#h3 {
+  text-align: center;
+}
+
+#game {
+  color: #009999;
+}
+
+#click {
+  background-color: #009999;
+  width: 100px;
+  height: 40px;
+  border-radius: 4px;
+  border: 0px;
+  color: white;
+  font-weight: bold;
+}
+
+#input {
+  width: 200px;
+  height: 35px;
+  margin-top: 2%;
+}
+
+#form-text {
+  align-self: center;
+  align-items: center;
+}
+
+#list {
+  list-style-type: none;
+}
