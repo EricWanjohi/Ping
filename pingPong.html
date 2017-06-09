@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ping Pong</title>
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/pingPong.css">
+</head>
+
+<body>
+  <div class="container img-responsive">
+    <div class="jumbotron text-center">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+
+      <!--<h4>Rules of the game</h4><p>Enter a number in the text field</p>-->
+      <ol>
+        <h3> How to play the <strong id="game">game</strong>.</h3>
+        <li>Numbers divisible by 3 are replaced with "ping"</li>
+        <li>Numbers divisible by 5 are replaced with "pong"</li>
+        <li>Numbers divisible by 15 are replaced with "ping pong"</li>
+      </ol>
+    </div>
+    <div class="col-md-4 container-fluid text-center" id="form-text">
+      <form id="form" method="post">
+        <h3>Enter your number in the field below</h3>
+        <p>Created by <a href="#">Eric Wanjohi</a></p>
+        <input id="input" type="text" placeholder="Enter a number">
+        <button type="submit" id="click">Find out</button>
+      </form>
+    </div>
+    <div class="col-md-4 text-align" id="result">
+      <ul id="list">
+
+      </ul>
+    </div>
+  </div>
+  <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+  <script type="text/javascript" src="js/pingPong.js"></script>
+</body>
+
+</html>
