@@ -14,10 +14,6 @@ var divisible = function(input) {
   };
 
 };
-
-
-
-
 // User interface logic...
 $(document).ready(function () {
   $("#form").submit(function(event) {
