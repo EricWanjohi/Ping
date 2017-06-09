@@ -21,7 +21,5 @@ $(document).ready(function () {
     $("#list").text("");
     var input = parseInt($("#input").val());
     var result = divisible(input);
-
-    //$("#list").text();
   })
 });
