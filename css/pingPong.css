@@ -1,12 +1,10 @@
 .jumbotron {
   background-color: white;
-  width: 90%;
+  width: 100%;
 }
 
 #logo {
   text-align: center;
-  padding-left: 0%;
-  padding-right: 0%;
 }
 
 .hr {
@@ -30,6 +28,7 @@
   border: 0px;
   color: white;
   font-weight: bold;
+  margin-top: 10px;
 }
 
 .image {
