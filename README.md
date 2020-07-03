@@ -1,5 +1,6 @@
 # Author Name
 * **Eric Wanjohi** - *Ping Pong Challenge* -[EricWanjohi](https://github.com/EricWanjohi)
+https://ericwanjohi.github.io/Ping/
 ## Project Name
 This project is called * [Ping Pong](https://ericwanjohi.github.io/Ping/)
 ### Specifications of the Project
